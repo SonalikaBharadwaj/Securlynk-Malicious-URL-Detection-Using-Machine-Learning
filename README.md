@@ -1,3 +1,3 @@
-# Phishing-URL-Detection
+Securlynk-Malicious-URL-Detection-Using-Machine-Learning
 
 This is a website  to help identify phishing URLs.
